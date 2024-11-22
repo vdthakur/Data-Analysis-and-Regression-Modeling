@@ -64,7 +64,7 @@ The dataset contains data points collected from a Combined Cycle Power Plant ove
 
 ### Nonlinear Associations
 1. Fit polynomial regression models of the form:
-   - \( Y = \beta_0 + \beta_1X + \beta_2X^2 + \beta_3X^3 + \epsilon \)
+   - Y = β₀ + β₁X + β₂X² + β₃X³ + ε
    - Assess the presence of nonlinear relationships for each predictor.
 
 ### Interactions and Model Improvement
