@@ -20,7 +20,7 @@ This repository contains a comprehensive analysis and regression modeling for th
 
 ## Introduction
 
-This project involves analyzing and modeling the **Combined Cycle Power Plant** dataset to predict the net hourly electrical energy output (EP) using four environmental predictors. The models explored include linear regression, polynomial regression, interaction-based regression, and k-nearest neighbor (KNN) regression.
+This project involves analyzing and modeling the **Combined Cycle Power Plant** dataset to predict the net hourly electrical energy output (EP) using four environmental predictors. The models explored include linear regression, polynomial regression, interaction-based regression, and k-nearest neighbor (KNN) regression. This project was done as part of an assignment for my graduate Machine Learning course.
 
 ---
 
